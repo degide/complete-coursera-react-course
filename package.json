@@ -1,6 +1,11 @@
 {
   "name": "coursera-full-stack-web-dev-react",
   "version": "0.1.0",
+  "author": {
+    "name": "Harerimana Egide",
+    "email": "egideharerimana085@gmail.com",
+    "url": "https://egide.netlify.app"
+  },
   "private": true,
   "dependencies": {
     "bootstrap": "^4.0.0",

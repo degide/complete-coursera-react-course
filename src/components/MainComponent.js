@@ -134,7 +134,6 @@ class Main extends Component {
                     />
                   )}
                 />
-                } />
                 <Route
                   exact
                   path="/menu"
